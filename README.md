@@ -22,7 +22,8 @@ Create a database in your MySQL installation by running ```CREATE DATABASE ecomm
 run ```npm start``` to start the server
 
 ## Demo Install and Usage Video
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Pt-A7y-HRzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![ECOMMERCE BACKEND DEMO VIDEO](https://img.youtube.com/vi/Pt-A7y-HRzM/0.jpg)](https://www.youtube.com/watch?v=Pt-A7y-HRzM)
 
 ## Contribution Guidelines
 If you wish to contribue, email me
